@@ -1,0 +1,19 @@
+{
+    "product": [
+        {
+            "name":     "T-shirt",
+            "category":     "Men",
+            "brand":    "Hugo Boss"
+        },
+        {
+            "name":     "Frog",
+            "category":     "Baby",
+            "brand":    "Lucky"
+        },
+        {
+            "name":     "Sharee",
+            "category":     "Woman",
+            "brand":    "Guess"
+        }
+    ]
+}
